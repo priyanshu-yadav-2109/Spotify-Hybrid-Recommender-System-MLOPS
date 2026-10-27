@@ -219,4 +219,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Requirements file
 requirement.txt
+
+# DVC-managed datasets
+/data/raw/
+/data/processed/
+
+# DVC cache
+.dvc/cache/
