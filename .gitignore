@@ -228,3 +228,4 @@ requirement.txt
 
 # DVC cache
 .dvc/cache/
+/transformer.joblib

@@ -1,0 +1,5 @@
+outs:
+- md5: 783e7e4b60dfda6c0cb85dfcece44803
+  size: 135565
+  hash: md5
+  path: transformer.joblib
